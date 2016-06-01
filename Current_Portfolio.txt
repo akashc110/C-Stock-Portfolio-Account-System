@@ -1,0 +1,4 @@
+Cash balance = $10000
+Company Symbol		Number	Price per share		Total value
+
+Total portfolio value: $10000

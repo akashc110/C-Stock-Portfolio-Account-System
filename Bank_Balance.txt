@@ -1,0 +1,12 @@
+Event		Amount			Date		   Balance
+
+Withdrawal	  $ 5689.64     	12 / 14 / 2015	   $ 4310.36
+Withdrawal	  $ 3062        	12 / 14 / 2015	   $ 1248.36
+Deposit		  $ 569.964     	12 / 14 / 2015	   $ 6948
+Deposit		  $ 1000        	12 / 14 / 2015	   $ 7948
+Withdrawal	  $ 100         	12 / 14 / 2015	   $ 7848
+Deposit		  $ 1000        	12 / 14 / 2015	   $ 8848
+Withdrawal	  $ 568.964     	12 / 14 / 2015	   $ 8279.04
+Deposit		  $ 29.62       	5 / 31 / 2016	   $ 11241
+Deposit		  $ 568.964     	5 / 31 / 2016	   $ 11810
+Withdrawal	  $ 1810        	5 / 31 / 2016	   $ 10000
